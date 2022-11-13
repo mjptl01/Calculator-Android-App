@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="equals">\u003D</string>
+    <string name="point">.</string>
+    <string name="add">\u002B</string>
+    <string name="subtract">\u2212</string>
+    <string name="divide">\u00F7</string>
+    <string name="multiply">\u00D7</string>
+    <string name="mAdd">M+</string>
+    <string name="mSub">M-</string>
+    <string name="mRecall">MR</string>
+    <string name="mClear">MC</string>
+    <string name="clear">C</string>
+    <string name="exponent">eˣ</string>
+    <string name="percentage">\u0025</string>
+    <string name="pi">𝜋</string>
+
+    <string name="result">0</string>
+    <string name="solution">0</string>
+
+
+</resources>
