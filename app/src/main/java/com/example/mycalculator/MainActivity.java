@@ -8,6 +8,15 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**
+ * This is the Calculator App implements basic math functions along with Exponent, Pi, Percentage and four memory functions.
+ *
+ * @author Mihirkumar Patel
+ * @version 1.0
+ * @since 2022-11-13
+ *
+ * **/
+
 public class MainActivity extends AppCompatActivity {
 
     Button btnOne, btnTwo, btnThree, btnFour, btnFive, btnSix, btnSeven, btnEight, btnNine, btnZero;
@@ -278,6 +287,8 @@ public class MainActivity extends AppCompatActivity {
                 tvResult.setText(null);
                 point=false;
                 c.currOp="";
+                c.opr=false;
+
             }
         });
 

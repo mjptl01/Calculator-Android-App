@@ -136,7 +136,7 @@
                 android:backgroundTint="#ECE6E6"
                 android:text="@string/clear"
                 android:textColor="@color/black"
-                android:textSize="34sp"
+                android:textSize="32sp"
                 android:textStyle="bold"
                 app:cornerRadius="36dp" />
 
